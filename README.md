@@ -26,11 +26,11 @@
 # Classes
 
 ## Lecture 1. (6.02.2019)
-**Lecture** Introduction, backpropagation algorithm.
+**Lecture** Introduction, backpropagation algorithm [.pptx](https://drive.google.com/open?id=12-E7YoEZiDBPl7ZGI5KFQwwiPIHHuVDi), [.pdf](https://drive.google.com/open?id=1VmZ3VL9m9v0In_5utGlS3KKd8DIgAfqB)
 
 **Seminar** Introduction to pytorch.
 
-Homework: Fill [Seminar 1](01_intro/seminar_pytorch_vs_numpy.ipynb) and send to AnyTask until 13.02.19 (8:00)
+Homework: Fill [Seminar 1 notebook](01_intro/seminar_pytorch_vs_numpy.ipynb) and send it to AnyTask until 13.02.19 (8:00)
 
 # Сourse evaluation criteria
 
