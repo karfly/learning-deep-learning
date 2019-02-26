@@ -30,16 +30,27 @@
 
 **Seminar** Introduction to pytorch.
 
-Homework: Fill [Seminar 1 notebook](01_intro/seminar_pytorch_vs_numpy.ipynb) and send it to AnyTask until 13.02.19 (8:00)
+**Homework:** Fill [Seminar 1 notebook](01_intro/seminar_pytorch_vs_numpy.ipynb) and send it to AnyTask until 13.02.19 (8:00)
 
 ## Lecture 2. (13.02.2019)
 **Lecture** Optimization for Deep Learning [.pptx](https://drive.google.com/open?id=19e-rf_b1jBT_lv_aOkObvYXM3nbSxhG4), [.pdf](https://drive.google.com/open?id=1GwFNLKiA-lPVX88cc6uWNFkunLcirgs6).
 
 **Seminar** High level pytorch.
 
-Homework:
+**Homework:**
 * Please read good logloss explanation here: https://dyakonov.org/2018/03/12/логистическая-функция-ошибки/
 * Fill [Seminar 2 notebook](02_basic_nn/seminar_high_level_pytorch.ipynb) and send it to AnyTask until 20.02.19 (8:00)
+
+
+## Lecture 3. (20.02.2010)
+**Lecture** Convolutional Networks. [.pptx](https://drive.google.com/open?id=1rltJSToDGCI37wWVC3IGRLUUKYixRK6J), [.pdf](https://drive.google.com/open?id=1vi29F7q44bvhKXtZ-MQsjPQ7CkNQEQuE)
+
+**Seminar** Cifar10 finetuning.
+
+**Homework:**
+* Fill Seminar 3 notebook
+* **HW1** Cifar10 classification.
+
 
 # Сourse evaluation criteria
 
