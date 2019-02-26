@@ -52,6 +52,15 @@
 * **HW1** Cifar10 classification.
 
 
+## Lecture 4. (27.02.2019)
+**Lecture** Convolutional Networks in Computer Vision (segmentation, detection, verification) [.pptx](https://drive.google.com/open?id=1aAW22FkAWMt6ZMiEbGtHrX1S0XLY-H72), [.pdf](https://drive.google.com/open?id=16XnW4KheNSuFjjHce6M01qfrxe0NGmnl)
+
+**Seminar** Dense prediction.
+
+**Homework:**
+* Fill Seminar 4 notebook
+* Find an article for journal club (12.03).
+
 # Сourse evaluation criteria
 
 * 10 seminar tasks: 4 points each
