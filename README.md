@@ -61,6 +61,15 @@
 * Fill Seminar 4 notebook
 * Find an article for journal club (12.03).
 
+## Lecture 5. (06.03.2019)
+**Lecture** Generative Convolutional Networks) [.pptx](https://drive.google.com/file/d/1PXWn-0G3OLM24yfQWiXm-t_fj8lIQNZ0/view?usp=sharing), [.pdf](https://drive.google.com/file/d/1BBXqao38645yTlRTtYLrnmXoylwY0AjP/view?usp=sharing)
+
+**Seminar** Neural Style Transfer.
+
+**Homework:**
+* Fill Seminar 5 notebook
+* Find an article for journal club (12.03).
+
 # Сourse evaluation criteria
 
 * 10 seminar tasks: 4 points each
