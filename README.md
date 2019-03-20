@@ -8,21 +8,26 @@
 * Computer vision
   1. Convolutional networks (ConvNets), classifying images. **Homework**
   2. "Deep" computer vision beyond classification: Verification tasks, object detection architectures, semantic segmentation
-  3. Generation: AE, VAE, GAN. **Homework**
-  
--- Deadline for article agreement --
-* Journal club
+  3. Generation networks
+    ```
+      -- Article deadline: Journal club --
+    ```
+  4. Generation: AE, VAE, GAN. **Homework**
 * Natural language processing
   1. Word embeddings, word2vec and other variants, convolutional networks for natural language
   2. Sequence2sequence, architectures with attention and long-term memory. **Homework**
   3. Transformers and other advanced techniques
   
--- Article deadline: present current results --
+  ```
+  -- Article deadline: present current results --
+  ```
 * Deep reinfocrement learning. **Homework**
 * Adverserial examples, MobileNet, distillation, dark knowledge
 
--- Artice deadline: present final results --
-  
+  ```
+  -- Artice deadline: present final results --
+  ```
+
 # Classes
 
 ## Lecture 1. (6.02.2019)
@@ -59,16 +64,27 @@
 
 **Homework:**
 * Fill Seminar 4 notebook
-* Find an article for journal club (12.03).
+* Find an article for journal club (13.03).
 
 ## Lecture 5. (06.03.2019)
-**Lecture** Generative Convolutional Networks) [.pptx](https://drive.google.com/file/d/1PXWn-0G3OLM24yfQWiXm-t_fj8lIQNZ0/view?usp=sharing), [.pdf](https://drive.google.com/file/d/1BBXqao38645yTlRTtYLrnmXoylwY0AjP/view?usp=sharing)
+**Lecture** Generative Convolutional Networks [.pptx](https://drive.google.com/file/d/1PXWn-0G3OLM24yfQWiXm-t_fj8lIQNZ0/view?usp=sharing), [.pdf](https://drive.google.com/file/d/1BBXqao38645yTlRTtYLrnmXoylwY0AjP/view?usp=sharing)
 
 **Seminar** Neural Style Transfer.
 
 **Homework:**
 * Fill Seminar 5 notebook
-* Find an article for journal club (12.03).
+* Find an article for journal club (13.03).
+
+## Journal club. (13.03.2019)
+
+## Lecture 6. (20.03.2019)
+**Lecture** Autoencoders and GANs. [.pptx](https://drive.google.com/open?id=1LUL1uUahloUKUrLYAMvNuIErX9BakGz9), [.pdf](https://drive.google.com/open?id=1trIvsIRuXBbONyHPUCyVjuzb34HIjIv1)
+
+**Seminar** Fashion-MNIST GAN
+
+**Homework:**
+* Fill Seminar 6 notebook
+* **HW2** VAE.
 
 # Сourse evaluation criteria
 
