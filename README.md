@@ -80,11 +80,20 @@
 ## Lecture 6. (20.03.2019)
 **Lecture** Autoencoders and GANs. [.pptx](https://drive.google.com/open?id=1LUL1uUahloUKUrLYAMvNuIErX9BakGz9), [.pdf](https://drive.google.com/open?id=1trIvsIRuXBbONyHPUCyVjuzb34HIjIv1)
 
+Useful link – VAE: https://neurohive.io/ru/osnovy-data-science/variacionnyj-avtojenkoder-vae/
+
 **Seminar** Fashion-MNIST GAN
 
 **Homework:**
 * Fill Seminar 6 notebook
-* **HW2** VAE.
+
+## Lecture 7. (27.03.2019)
+**Lecture** Basic NLP, Recurrent neural networks, sequence models.
+
+**Seminar** w2v
+
+**Homework:**
+* Fill Seminar 7 notebook
 
 # Сourse evaluation criteria
 
@@ -98,5 +107,3 @@ Total sum is 100 points. Course grades:
 * 80 points -> 8/10
 * 50 points -> 5/10
 * 30 points -> 3/10
-
-
