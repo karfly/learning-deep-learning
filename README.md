@@ -88,7 +88,7 @@ Useful link – VAE: https://neurohive.io/ru/osnovy-data-science/variacionnyj-av
 * Fill Seminar 6 notebook
 
 ## Lecture 7. (27.03.2019)
-**Lecture** Basic NLP, Recurrent neural networks, sequence models.
+**Lecture** NLP intro, ConvNets for NLP, Word embeddings.
 
 **Seminar** w2v
 
