@@ -101,6 +101,9 @@ Useful link – VAE: https://neurohive.io/ru/osnovy-data-science/variacionnyj-av
 **Seminar** Char RNN
 
 **Homework:**
+* LSTM – http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+* То же на русском – https://habr.com/ru/company/wunderfund/blog/331310/
+* Attention – https://www.youtube.com/watch?v=k63pDjKV3Ew
 * Fill Seminar 8 notebook
 * **HW3** Image captioning
 
