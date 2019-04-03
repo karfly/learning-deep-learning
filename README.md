@@ -15,8 +15,8 @@
   4. Generation: AE, VAE, GAN. **Homework**
 * Natural language processing
   1. Word embeddings, word2vec and other variants, convolutional networks for natural language
-  2. Sequence2sequence, architectures with attention and long-term memory. **Homework**
-  3. Transformers and other advanced techniques
+  2. RNN, LSTM. **Homework**
+  3. Sequence2sequence, attention, transformers and other advanced techniques
   
   ```
   -- Article deadline: present current results --
@@ -94,6 +94,15 @@ Useful link – VAE: https://neurohive.io/ru/osnovy-data-science/variacionnyj-av
 
 **Homework:**
 * Fill Seminar 7 notebook
+
+## Lecture 8. (3.04.2019)
+**Lecture** RNN, LSTM. [.pptx](https://drive.google.com/open?id=1A0e0My9G_jMxUadYU-7SDl0spWyigK8g), [.pdf](https://drive.google.com/open?id=1MxqvNJSGOwHZlPC9MnLSklxpZNhLnQaV)
+
+**Seminar** Char RNN
+
+**Homework:**
+* Fill Seminar 8 notebook
+* **HW3** Image captioning
 
 # Сourse evaluation criteria
 
