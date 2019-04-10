@@ -107,6 +107,15 @@ Useful link – VAE: https://neurohive.io/ru/osnovy-data-science/variacionnyj-av
 * Fill Seminar 8 notebook
 * **HW3** Image captioning
 
+## Lecture 9. (10.04.2019)
+**Lecture** Speech2Text. Seq2seq. Transformer [.pptx](https://drive.google.com/open?id=1vBULDrEats24Kn01C_mHqfIu-CuLcqQx), [.pdf](https://drive.google.com/open?id=1N-VYRjHnrldBDZ3Qcb9OvECRDLd-iBq6)
+
+**Seminar** Seq2seq
+
+**Homework:**
+* Fill Seminar 9 notebook
+* Upload intermediate results of course work
+
 # Сourse evaluation criteria
 
 * 10 seminar tasks: 4 points each
