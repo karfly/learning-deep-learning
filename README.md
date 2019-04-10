@@ -15,8 +15,8 @@
   4. Generation: AE, VAE, GAN. **Homework**
 * Natural language processing
   1. Word embeddings, word2vec and other variants, convolutional networks for natural language
-  2. Sequence2sequence, architectures with attention and long-term memory. **Homework**
-  3. Transformers and other advanced techniques
+  2. RNN, LSTM. **Homework**
+  3. Sequence2sequence, attention, transformers and other advanced techniques
   
   ```
   -- Article deadline: present current results --
@@ -80,11 +80,41 @@
 ## Lecture 6. (20.03.2019)
 **Lecture** Autoencoders and GANs. [.pptx](https://drive.google.com/open?id=1LUL1uUahloUKUrLYAMvNuIErX9BakGz9), [.pdf](https://drive.google.com/open?id=1trIvsIRuXBbONyHPUCyVjuzb34HIjIv1)
 
+Useful link – VAE: https://neurohive.io/ru/osnovy-data-science/variacionnyj-avtojenkoder-vae/
+
 **Seminar** Fashion-MNIST GAN
 
 **Homework:**
 * Fill Seminar 6 notebook
-* **HW2** VAE.
+
+## Lecture 7. (27.03.2019)
+**Lecture** NLP intro, ConvNets for NLP, Word embeddings.
+
+**Seminar** w2v
+
+**Homework:**
+* Fill Seminar 7 notebook
+
+## Lecture 8. (3.04.2019)
+**Lecture** RNN, LSTM. [.pptx](https://drive.google.com/open?id=1A0e0My9G_jMxUadYU-7SDl0spWyigK8g), [.pdf](https://drive.google.com/open?id=1MxqvNJSGOwHZlPC9MnLSklxpZNhLnQaV)
+
+**Seminar** Char RNN
+
+**Homework:**
+* LSTM – http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+* То же на русском – https://habr.com/ru/company/wunderfund/blog/331310/
+* Attention – https://www.youtube.com/watch?v=k63pDjKV3Ew
+* Fill Seminar 8 notebook
+* **HW3** Image captioning
+
+## Lecture 9. (10.04.2019)
+**Lecture** Speech2Text. Seq2seq. Transformer [.pptx](https://drive.google.com/open?id=1vBULDrEats24Kn01C_mHqfIu-CuLcqQx), [.pdf](https://drive.google.com/open?id=1N-VYRjHnrldBDZ3Qcb9OvECRDLd-iBq6)
+
+**Seminar** Seq2seq
+
+**Homework:**
+* Fill Seminar 9 notebook
+* Upload intermediate results of course work
 
 # Сourse evaluation criteria
 
@@ -98,5 +128,3 @@ Total sum is 100 points. Course grades:
 * 80 points -> 8/10
 * 50 points -> 5/10
 * 30 points -> 3/10
-
-
