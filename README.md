@@ -116,6 +116,14 @@ Useful link – VAE: https://neurohive.io/ru/osnovy-data-science/variacionnyj-av
 * Fill Seminar 9 notebook
 * Upload intermediate results of course work
 
+## Lecture 10. (17.04.2019)
+**Lecture** Reinforcement learning w/o NN. [.pptx](https://drive.google.com/open?id=164ncy-1GIs-ICgSgrOMTWyPCX2KNOhnq), [.pdf](https://drive.google.com/open?id=1A1grleGmjxZor4iVRJ7uK87Tipmbjaz4)
+
+**Seminar** Q-learning
+
+**Homework:**
+* Fill Seminar 10 notebook
+
 # Сourse evaluation criteria
 
 * 10 seminar tasks: 4 points each
